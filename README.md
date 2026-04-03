@@ -1,2 +1,0 @@
-# geraAI
-gerador de avaliação
